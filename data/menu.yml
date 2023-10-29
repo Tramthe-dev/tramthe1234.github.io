@@ -1,0 +1,10 @@
+- item: About
+  url: about/
+- item: Contact Us
+  url: "contact-us"
+- item: Blog
+  url: "Join"
+- item: Category
+  url: categories
+- item: Tag
+  url: tags

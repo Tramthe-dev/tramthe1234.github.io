@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Nguyen bao An bui'
+theme = 'newsroom'
